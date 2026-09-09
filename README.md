@@ -1,6 +1,6 @@
 # USER GUIDE
 
-You can find 3 folders in this repository. The following sections guide you on how to use each directory.
+You can find 3 folders in this repository. Where the following sections guide you on how to use each directory.
 
 ## 1. HOW TO CRACK
 
@@ -19,7 +19,7 @@ You can find 3 folders in this repository. The following sections guide you on h
 
 ---
 
-### What is this repository for
+### What is this purpose of the repository
 
 - This repository is made to share materials to crack the placement process of several companies.
 - You can fork this repository and add materials that you find helpful for your fellow developers/students to crack interviews.
